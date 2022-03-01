@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: list
-  name: tags
-  label: tags
 - type: textarea
   name: description
   label: description
