@@ -14,4 +14,4 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
-- src/posts/testpost1.md
+- src/events/test.md
