@@ -13,7 +13,7 @@ sections:
   match: "*.md"
   new_doc_ext: md
   templates:
-  - post
+  - event
 - type: heading
   label: Pages
 - type: document
