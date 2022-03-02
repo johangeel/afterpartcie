@@ -15,4 +15,5 @@ fields:
     required: true
   default: now
 pages:
+- src/events/lekker-borrele-1.md
 - src/events/lekker-borrele.md
