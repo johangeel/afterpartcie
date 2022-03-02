@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Events
 - type: directory
   path: src/events
   label: Events
@@ -12,8 +14,6 @@ sections:
   new_doc_ext: md
   templates:
   - event
-- type: heading
-  label: Events
 - type: heading
   label: Pages
 - type: document
