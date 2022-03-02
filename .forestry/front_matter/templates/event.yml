@@ -24,5 +24,4 @@ fields:
       format: markdown
   label: Hoi wat heb je nog meer te vertellen over deze activiteit?
 pages:
-- src/events/lekker-borrele-1.md
 - src/events/lekker-borrele-2.md
