@@ -3,11 +3,14 @@ label: Event
 hide_body: false
 fields:
 - type: text
-  name: permalink
-  label: permalink
-- type: text
   name: title
-  label: title
+  label: Hoi hoe heet het evenement?
+  config:
+    required: true
+  default: Lekker borrele
 - type: datetime
   name: date
-  label: date
+  label: Hee hallo wanneer isde activiteit?
+  config:
+    required: true
+  default: now
