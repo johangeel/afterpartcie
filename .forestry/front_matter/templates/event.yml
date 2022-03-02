@@ -4,10 +4,10 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: Hoi hoe heet het evenement?
   config:
     required: true
-  default: Lekker borrele
+  default: ''
+  label: Hoi hoe heet het evenement?
 - type: datetime
   name: date
   label: Hee hallo wanneer is de activiteit?
