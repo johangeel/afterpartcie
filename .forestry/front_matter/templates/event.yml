@@ -10,7 +10,7 @@ fields:
   default: Lekker borrele
 - type: datetime
   name: date
-  label: Hee hallo wanneer isde activiteit?
+  label: Hee hallo wanneer is de activiteit?
   config:
     required: true
   default: now
