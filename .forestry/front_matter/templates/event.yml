@@ -7,21 +7,21 @@ fields:
   config:
     required: true
   default: ''
-  label: Hoi hoe heet het evenement?
+  label: Hoe heet de activiteit?
 - type: datetime
   name: date
-  label: Hee hallo wanneer is de activiteit?
+  label: Wanneer is de activiteit?
   config:
     required: true
   default: now
-- name: hoi_wat_heb_je_nog_meer_te_vertellen_over_deze_activiteit_
+- name: description
   type: textarea
   default: ''
   config:
-    required: true
+    required: false
     wysiwyg: false
     schema:
       format: markdown
-  label: Hoi wat heb je nog meer te vertellen over deze activiteit?
+  label: Waar gaat de activiteit over?
 pages:
 - src/events/boreelelelelelelele.md
