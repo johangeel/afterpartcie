@@ -14,3 +14,5 @@ fields:
   config:
     required: true
   default: now
+pages:
+- src/events/lekker-borrele.md
