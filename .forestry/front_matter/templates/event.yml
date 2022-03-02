@@ -14,6 +14,15 @@ fields:
   config:
     required: true
   default: now
+- name: hoi_wat_heb_je_nog_meer_te_vertellen_over_deze_activiteit_
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Hoi wat heb je nog meer te vertellen over deze activiteit?
 pages:
 - src/events/lekker-borrele-1.md
 - src/events/lekker-borrele.md
