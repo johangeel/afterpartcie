@@ -12,9 +12,6 @@ sections:
   new_doc_ext: md
   templates:
   - event
-- type: document
-  path: src/data/navigation.json
-  label: Navigation
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
