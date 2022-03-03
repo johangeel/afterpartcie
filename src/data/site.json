@@ -1,6 +1,6 @@
 {
   "name": "AfterpartCie",
-  "description": "AfterpartCie.",
+  "description": "AfterpartCie",
   "url": "https://afterpartcie.netlify.app",
   "author": {
     "name": "Johan Geel",
@@ -11,6 +11,11 @@
     {
       "text": "Activiteiten",
       "url": "/activiteiten",
+      "external": false
+    },
+    {
+      "text": "Activiteiten2",
+      "url": "/activiteiten2",
       "external": false
     }
   ],
