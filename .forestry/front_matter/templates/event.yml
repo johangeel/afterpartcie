@@ -23,6 +23,9 @@ fields:
     schema:
       format: markdown
   label: Waar gaat de activiteit over?
+- name: jdslfjsdfds
+  type: boolean
+  label: jdslfjsdfds
 pages:
 - src/events/ahsfhskdfsdf.md
 - src/events/boreelelelelelelele.md
